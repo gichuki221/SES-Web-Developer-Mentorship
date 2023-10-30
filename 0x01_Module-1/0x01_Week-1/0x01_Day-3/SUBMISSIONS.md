@@ -8,7 +8,7 @@ Welcome, participants! Please submit your Day 2 assignments here. We're excited 
 | Name:       | [Link to Repo](insert_link_here) |
 | Name:       | [Link to Repo](insert_link_here) |
 | Name:       | [Link to Repo](insert_link_here) |
-| Name:       | [Link to Repo](insert_link_here) |
+| Name:  James Gichuki | [Link to Repo](https://github.com/gichuki221/SES-web-dev-day3-css.git) |
 | Name:  Hillary Martin Ndaru Murimi     | [Link to Repo](https://github.com/murimzz1/Ses-Web-Day3) |
 | Name:  John Mwwega     | [Link to Repo](https://github.com/CodeDroid999/SES-WebDev-Day3-css) |
 | Name:  Obed Wambugu     | [Link to Repo](https://github.com/sbgaks/SES-WebDev-Day3-css) |
