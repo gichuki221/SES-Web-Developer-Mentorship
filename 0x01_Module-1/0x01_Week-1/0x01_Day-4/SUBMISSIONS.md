@@ -5,7 +5,7 @@ Welcome, participants! Please submit your Day 4 assignments here. We're excited 
 | Participant | Github Repo Link                 |
 | ----------- | -------------------------------- |
 
-| Name:       | [Link to Repo](insert_link_here) |
+| James Gichuki     | [Link to Repo](https://github.com/gichuki221/SES-Web-CSSframeworks.git) |
 | Name:       | [Link to Repo](insert_link_here) |
 | Name:       | [Link to Repo](insert_link_here) |
 | Name:       | [Link to Repo](insert_link_here) |
